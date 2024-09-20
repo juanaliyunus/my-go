@@ -64,7 +64,9 @@ This repository contains code and examples from a Golang learning series. Below 
 
 ## Pendahuluan
 Pengantar tentang bahasa Go, tujuan, dan manfaatnya.
+Dibuat dari bahsa C. Diluncurkan 2009. Banyak teknologi yang menggunakan golang seperti docker, kubernetes, prometheous dll. Digunakan diperusahaan yang menerapkan microservices. Bahasa yanng sangat sederhana, ga sesusah java bahkan java script. Ada fitur concurency yang merupakan kelebihan golang. Mnedukung garbage collection. Sedang naik daun di indonesia.
 
+Go compiler -> compile file -> main.go dan  produce binary file -> main
 ## Pengenalan Golang
 Membahas fitur utama Golang, seperti garbage collection, built-in concurrency, dan tipenya yang statically typed.
 
