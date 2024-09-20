@@ -74,7 +74,7 @@ Membahas fitur utama Golang, seperti garbage collection, built-in concurrency, d
 Langkah-langkah instalasi Golang pada sistem operasi yang berbeda.
 
 ## Membuat Project
-Panduan untuk membuat dan menginisialisasi project baru di Golang menggunakan `go mod init`.
+Panduan untuk membuat dan menginisialisasi project baru di Golang menggunakan `go mod init (nama modul)`. Project di golang biasanya disebeut sebagai modul
 
 ## Program Hello World
 Contoh sederhana mencetak “Hello, World!” menggunakan Golang.
